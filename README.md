@@ -6,7 +6,7 @@ Use this with our [eslint config](https://github.com/barsoom/eslint-config-barso
 
 Install:
 
-    npm install --save-dev @barsoom/eslint-config-barsoom
+    npm install --save-dev @barsoom/prettier-config
 
 Then put this in .prettierrc:
 
