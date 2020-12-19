@@ -8,6 +8,6 @@ Install:
 
     npm install --save-dev @barsoom/prettier-config
 
-Then put this in .prettierrc:
+Then put this in package.json:
 
-    "@barsoom/prettier-config"
+    "prettier": "@barsoom/prettier-config"
